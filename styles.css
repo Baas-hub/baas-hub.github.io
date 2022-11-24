@@ -1,0 +1,20 @@
+body {
+    background-color: #efefef;
+}
+
+.selfie {
+    width: 11%;
+    border-radius: 100%;
+    border: 3px solid #ababab;
+    float: left;
+}
+
+.meDetails .title {
+    padding-left: 25px;
+    float: left;
+    text-align: center;
+}
+
+.meDetails {
+    width: 100%;
+}
